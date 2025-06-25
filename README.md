@@ -9,15 +9,25 @@ Built during my **MCA internship at InnoByte Services**, this app lets users rec
 
 PersonalFinanceApp/
 │
+
 ├── main.py             # Main CLI program
+
 ├── db.py               # SQLite3 database connection and setup
+
 ├── auth.py             # User registration & login system
+
 ├── finance.py          # Add / view / edit / delete transactions
+
 ├── budget.py           # Monthly budget setting feature
+
 ├── reports.py          # Generates summaries & monthly reports
+
 ├── chart.py            # Pie chart visualization (matplotlib)
+
 ├── backup_restore.py   # Optional backup and restore logic
+
 ├── PersonalFinance.db  # Local SQLite database
+
 └── README.md           # This file
 
 ##  What You Can Do With It

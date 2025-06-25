@@ -8,7 +8,7 @@ Built during my **MCA internship at InnoByte Services**, this app lets users rec
 ## Folder Overview
 
 PersonalFinanceApp/
-│
+
 
 ├── main.py             # Main CLI program
 
@@ -93,7 +93,11 @@ PersonalFinanceApp/
 
 ---
 **Author**
+
 Alagananthi E
+
 Intern @ InnoByte Services
+
 [MCA Student – Project Work]
+
 GitHub
